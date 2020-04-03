@@ -1,1 +1,2 @@
-Check Redis Record: redis-cli -h 127.0.0.1 -p 6379 -a uiuc_cs498_mp6 HGETALL partAWordCount
+- How to set up topology
+- How to create Bolt in yaml and .py
